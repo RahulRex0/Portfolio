@@ -1,4 +1,5 @@
 import projects from "@/data/projects.json"
+import Link from "next/link";
 
 type Project={
   id:number;
@@ -14,10 +15,14 @@ export default function ProjectsPage() {
       <main style={{ padding: 24 }}>
         <h1>Projects</h1>
         {typedProjects.map((p) => (
-          <div key={p.id} style={{ padding: 12, border: "1px solid #333", marginTop: 12 }}>
-            <h2 style={{ margin: 0 }}>{p.title}</h2>
-            <p style={{ margin: "8px 0 0" }}>{p.description}</p>
-          </div>
+          <Link
+          key={p.id}
+          href={`/projects/${p.id}`}
+          className="block rounded-2xl border border-neutral-800 bg-neutral-900/40 p-5 hover:bg-neutral-900 transition"
+        >
+          <h2 className="text-lg font-semibold">{p.title}</h2>
+          <p className="mt-2 text-sm text-neutral-300">{p.description}</p>
+        </Link>
       ))}
     </main>
     );
