@@ -40,6 +40,14 @@ export default function Bottom() {
         <Image src="/icons/linkedin.svg" alt="" width={16} height={16} />
         LinkedIn
       </a>
+      <a
+        href="mailto:rahulrex551@gmail.com"
+        style={footerLinkStyle}
+        className="no-underline underline-offset-4 hover:text-neutral-300 hover:underline hover:opacity-80"
+      >
+        <Image src="/icons/email.svg" alt="" width={16} height={16} />
+        Email
+      </a>
     </footer>
   );
 }
