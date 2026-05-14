@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export const metadata = {
   title: "Rahul Rex — Portfolio",
@@ -8,9 +9,14 @@ export const metadata = {
 export default function HomePage() {
   return (
     <main className="py-12">
+      <Image
+        src="/IMG_7018.JPEG"
+        alt="Photo of Rahul Rex"
+        width={160}
+        height={160}
+        className="rounded-full mb-7"
+      />
       <section className="space-y-6">
-        <p className="text-sm text-neutral-400">Next.js • TypeScript • Tailwind</p>
-
         <h1 className="text-5xl font-bold tracking-tight">
           Rahul Rex
         </h1>
