@@ -11,11 +11,11 @@ export default function ContactPage(){
         <main style={{ padding: 24 }}>
         <h1 style={{fontSize:"36px",fontWeight:"bold", marginBottom:"20px"}}>Contact</h1>
         <div style={{display: "flex", flexDirection: "column", gap: "12px"}}>
-            <a href="" style={Inlinestyle}><Image src={"/icons/email.svg" } alt="blank" width={16} height={16} style={{marginRight:"3px"}}></Image> Email: rahulrex551@gmail.com</a>
+            <a href="mailto:rahulrex551@gmail.com" style={Inlinestyle}><Image src={"/icons/email.svg" } alt="" width={16} height={16} style={{marginRight:"3px"}}></Image> Email: rahulrex551@gmail.com</a>
             
-            <a href="" style={Inlinestyle}><Image src={"/icons/github.svg"} alt="blank" width={16} height={16} style={{marginRight:"3px"}}></Image> GitHub: RahulRex0</a>
+            <a href="https://github.com/RahulRex0" style={Inlinestyle}><Image src={"/icons/github.svg"} alt="" width={16} height={16} style={{marginRight:"3px"}}></Image> GitHub: RahulRex0</a>
 
-            <a href="https://linkedin.com/" style={Inlinestyle}><Image src="/icons/linkedin.svg" alt="LinkedIn" width={16} height={16} style={{marginRight:"3px"}} />
+            <a href="https://linkedin.com/" style={Inlinestyle}><Image src="/icons/linkedin.svg" alt="" width={16} height={16} style={{marginRight:"3px"}} />
                  LinkedIn</a>
         </div>
         
