@@ -6,7 +6,7 @@
     "tech": ["Next.js", "Supabase", "TypeScript"],
     "github": "https://github.com/RahulRex0/Group-Chat-App",
     "live": "https://group-chat-app-lime-alpha.vercel.app/"
-  }
+  },
   {
     "id": 2,
     "title": "Ai Resume Analyzer",
