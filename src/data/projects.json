@@ -1,6 +1,14 @@
 [
-  {
+    {
     "id": 1,
+    "title": "Group Chat App",
+    "description": "Full-stack realtime group chat: Next.js 16 and Supabase.",
+    "tech": ["Next.js", "Supabase", "TypeScript"],
+    "github": "https://github.com/RahulRex0/Group-Chat-App",
+    "live": "https://group-chat-app-lime-alpha.vercel.app/"
+  }
+  {
+    "id": 2,
     "title": "Ai Resume Analyzer",
     "description": "An AI-powered resume analyzer that compares a resume with a job description and gives improvement suggestions using Next.js, TypeScript, and the Gemini API.",
     "tech": ["Next.js", "TypeScript", "React", "Gemini API "],
@@ -8,7 +16,7 @@
     "live": "https://ai-resume-analyzer-seven-umber.vercel.app/"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "E-commerce Store",
     "description": "A future online store with products, cart, checkout, and admin features.",
     "tech": ["Next.js", "TypeScript", "Tailwind CSS", "Prisma"],
@@ -16,7 +24,7 @@
     "live": "https://ecommerce-store-nine-amber.vercel.app/"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Portfolio Site",
     "description": "A personal portfolio built with Next.js, TypeScript, and Tailwind CSS.",
     "tech": ["Next.js", "TypeScript", "Tailwind CSS"],
