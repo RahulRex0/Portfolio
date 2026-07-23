@@ -25,12 +25,19 @@ export default function HomePage() {
           I build fast, clean web apps. Currently focusing on Next.js, UI, and full-stack projects.
         </p>
 
-        <div className="flex gap-3">
+        <div className="flex flex-wrap gap-3">
           <Link
             href="/projects"
             className="rounded-xl bg-white px-4 py-2 text-black font-medium hover:opacity-90"
           >
             View Projects
+          </Link>
+
+          <Link
+            href="/skills"
+            className="rounded-xl border border-neutral-700 px-4 py-2 text-white hover:bg-neutral-900"
+          >
+            Skills
           </Link>
 
           <Link
