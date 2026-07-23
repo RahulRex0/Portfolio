@@ -2,8 +2,8 @@
     {
     "id": 1,
     "title": "Group Chat App",
-    "description": "Full-stack realtime group chat: Next.js 16 and Supabase.",
-    "tech": ["Next.js", "Supabase", "TypeScript"],
+    "description": "Full-stack realtime group chat website.",
+    "tech": ["Next.js", "TypeScript", "Postgresql", "Express.js", "Websockets"],
     "github": "https://github.com/RahulRex0/Group-Chat-App",
     "live": "https://group-chat-app-lime-alpha.vercel.app/"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "title": "E-commerce Store",
     "description": "A future online store with products, cart, checkout, and admin features.",
-    "tech": ["Next.js", "TypeScript", "Tailwind CSS", "Prisma"],
+    "tech": ["Next.js", "TypeScript", "Express.js","Postgresql"],
     "github": "https://github.com/RahulRex0/ecommerce-store",
     "live": "https://ecommerce-store-nine-amber.vercel.app/"
   },
@@ -29,7 +29,7 @@
     "description": "A personal portfolio built with Next.js, TypeScript, and Tailwind CSS.",
     "tech": ["Next.js", "TypeScript", "Tailwind CSS"],
     "github": "https://github.com/RahulRex0/-portfolio",
-    "live": "https://portfolio-one-opal-89.vercel.app/"
+    "live": "https://rahulrex.com/"
   }
 
 ]
