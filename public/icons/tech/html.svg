@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img">
+  <title>HTML</title>
+  <path d="M3 2h18l-1.64 18.5L12 22.5l-7.36-2L3 2Z" fill="#E34F26"/>
+  <path d="m12 20.93 5.95-1.61L19.35 3.5H12v17.43Z" fill="#F06529"/>
+  <path d="M6.65 6h10.7l-.15 1.82H8.64l.22 2.32h8.13l-.62 6.82L12 18.14l-4.35-1.18-.3-3.37h2.13l.15 1.73 2.37.64 2.36-.64.25-3.26H7L6.65 6Z" fill="#fff"/>
+</svg>

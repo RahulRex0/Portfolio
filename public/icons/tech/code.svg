@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img">
+  <title>Code</title>
+  <rect width="24" height="24" rx="5" fill="#525252"/>
+  <path d="m9.25 7-5 5 5 5M14.75 7l5 5-5 5" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img">
+  <title>IntelliJ IDEA</title>
+  <defs>
+    <linearGradient id="idea-gradient" x1="2" y1="2" x2="22" y2="22" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF7A00"/>
+      <stop offset=".48" stop-color="#FA2C83"/>
+      <stop offset="1" stop-color="#087CFA"/>
+    </linearGradient>
+  </defs>
+  <rect width="24" height="24" rx="3" fill="url(#idea-gradient)"/>
+  <rect x="4" y="4" width="16" height="16" fill="#050505"/>
+  <path d="M7 7h2v7H7V7Zm4 0h2v4.65c0 1.8-.95 2.65-2.55 2.65-.54 0-.98-.1-1.35-.28l.33-1.63c.25.12.5.18.75.18.54 0 .82-.32.82-1.02V7Z" fill="#fff"/>
+  <rect x="7" y="16.4" width="6.5" height="1" fill="#fff"/>
+</svg>
